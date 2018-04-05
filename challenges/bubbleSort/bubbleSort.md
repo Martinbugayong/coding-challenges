@@ -1,6 +1,6 @@
 ## bubbleSort
 
-**Difficulty**: Easy
+**Difficulty**: Basic
 
 ## Prompt 
 
