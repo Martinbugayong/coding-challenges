@@ -1,13 +1,13 @@
 ## reduce
 
-**Difficulty**: Basic 
+**Difficulty**: Medium 
 
 ## Prompt 
 
 Implement a function called `reduce` that takes three arguments: 
 
 1. An array 
-2. A callback function 
+2. A callback function - this function takes an accumulator and an array element as argument
 3. Initial value (this will be optional)
 
 This function should *reduce* an array to a single value.
